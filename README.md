@@ -12,6 +12,8 @@
 
 > Radar ESP can be Broken at Times
 
+>Dormant can have problems
+
 > Fix Pattern Injection due to newest CSGO Update breaking some API --> Ask [Jannes](https://github.com/JannesBonk)?
 
 # **Suggestions**
